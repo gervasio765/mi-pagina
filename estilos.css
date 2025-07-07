@@ -1,0 +1,33 @@
+body {
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 100px 20px;
+    cursor: pointer;
+    margin: 0;
+}
+
+#cartel {
+    display: none;
+    background-color: #222;
+    color: #fff;
+    padding: 20px 40px;
+    border-radius: 10px;
+    font-size: 1.5em;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    margin-top: 30px;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    word-wrap: break-word;
+}
+
+#mensajeCesar {
+    font-size: 1.3em;
+    color: #333;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    word-wrap: break-word;
+}
+
